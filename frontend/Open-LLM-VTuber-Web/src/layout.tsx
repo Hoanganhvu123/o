@@ -1,16 +1,14 @@
-const isElectron = window.api !== undefined;
-
 const getAppHeight = () => {
   if (typeof window !== 'undefined' && /Mobi|Android/i.test(navigator.userAgent)) {
     return `${window.innerHeight}px`;
   }
-  return isElectron ? 'calc(100vh - 30px)' : '100vh';
+  return '100vh';
 };
 
 export const layoutStyles = {
   appContainer: {
     width: '100vw',
-    height: getAppHeight(),
+    height: '100vh',
     bg: 'gray.900',
     color: 'white',
     overflow: 'hidden',
