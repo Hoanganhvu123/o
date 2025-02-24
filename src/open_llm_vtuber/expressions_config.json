@@ -1,0 +1,59 @@
+{
+  "mao_pro": {
+    "expressions": {
+      "happy": "exp_01",
+      "sad": "exp_02", 
+      "angry": "exp_03",
+      "surprised": "exp_04",
+      "neutral": "exp_05",
+      "thinking": "exp_06",
+      "shy": "exp_07",
+      "excited": "exp_08"
+    },
+    "animations": {
+      "idle": {
+        "group": "Idle",
+        "index": 0
+      },
+      "wave": {
+        "group": "TapBody",
+        "index": 0
+      },
+      "nod": {
+        "group": "TapHead", 
+        "index": 0
+      },
+      "shake": {
+        "group": "TapBody",
+        "index": 1
+      }
+    }
+  },
+  "shizuku": {
+    "expressions": {
+      "happy": "f01",
+      "sad": "f02",
+      "angry": "f03",
+      "surprised": "f04",
+      "neutral": "f05"
+    },
+    "animations": {
+      "idle": {
+        "group": "idle",
+        "index": 0
+      },
+      "wave": {
+        "group": "tap",
+        "index": 0
+      },
+      "nod": {
+        "group": "tap",
+        "index": 1
+      },
+      "shake": {
+        "group": "tap",
+        "index": 2
+      }
+    }
+  }
+} 

@@ -1,0 +1,24 @@
+{
+  "stories": [
+    {
+      "id": "tam_cam",
+      "title": "Tấm Cám",
+      "text": "Ngày xưa, có một cô gái tên là Tấm, sống với cha và mẹ kế cùng người em cùng cha khác mẹ tên là Cám. Tấm hiền lành, chăm chỉ nhưng thường xuyên bị mẹ kế và Cám đối xử tệ bạc. Hàng ngày, Tấm phải làm tất cả công việc nặng nhọc trong nhà.\n\nMột hôm, mẹ kế bảo hai chị em ra đồng bắt tép. Bà đưa cho Tấm một cái rổ thưa, còn Cám được một cái rổ kín. Tấm cố gắng bắt tép nhưng tép cứ tuột hết qua lỗ rổ. Đang lúc buồn bã, Bụt hiện ra và cho Tấm một cái rổ mới, nhờ đó Tấm bắt được rất nhiều tép.\n\nThấy vậy, mẹ kế và Cám ghen tị, họ nghĩ ra một kế độc ác. Họ sai Tấm trèo lên cây bàng hái lá, rồi lấy rìu chặt gốc cây khiến Tấm rơi xuống giếng sâu. May mắn thay, Tấm được cá thần cứu giúp và biến thành một cô gái xinh đẹp hơn xưa.\n\nMột ngày nọ, trong làng có hội, vua đi ngang qua và gặp Tấm. Bị thu hút bởi vẻ đẹp và sự dịu dàng của Tấm, vua đã đem lòng yêu mến và rước Tấm về cung làm hoàng hậu. Cuộc sống của Tấm trong cung vô cùng hạnh phúc, được vua yêu thương và nâng niu.\n\nThế nhưng, mẹ kế và Cám vẫn không từ bỏ ý định hãm hại Tấm. Họ lừa Tấm trở về nhà và giết hại. Nhưng với sự giúp đỡ của các vị thần, Tấm đã nhiều lần hóa kiếp thành chim vàng anh, cây xoan đào, và cuối cùng là khôi phục lại hình dáng con người.\n\nCuối cùng, cái ác đã bị trừng phạt, cái thiện được đền đáp. Tấm được đoàn tụ với vua, sống hạnh phúc mãi mãi. Câu chuyện Tấm Cám dạy chúng ta rằng dù cuộc sống có khó khăn đến đâu, những người hiền lành, chăm chỉ và tốt bụng sẽ luôn được ông trời phù hộ và có được hạnh phúc xứng đáng.",
+      "expression": "happy",
+      "motion": "nod",
+      "audio": "/idle-stories/audio/tam_cam.mp3",
+      "volumes": [0.5, 0.7, 0.6],
+      "slice_length": 500
+    },
+    {
+      "id": "su_tich_banh_chung",
+      "title": "Sự tích bánh chưng",
+      "text": "Ngày xưa, có vị vua Hùng muốn truyền ngôi cho con. Nhà vua họp các hoàng tử lại và phán rằng: \"Con nào tìm được món ăn vừa ý ta nhất để dâng cúng tổ tiên sẽ được truyền ngôi báu.\"\n\nTrong khi các anh em khác đi tìm những sơn hào hải vị quý hiếm, Lang Liêu - người con nghèo khó nhất - chỉ có thể làm được hai món ăn đơn giản từ gạo nếp. Anh gói gạo nếp thành hình vuông tượng trưng cho đất, bên trong có nhân đậu xanh và thịt, bọc bằng lá dong xanh, và đặt tên là bánh chưng. Món thứ hai hình tròn tượng trưng cho trời, được gọi là bánh giày.\n\nKhi vua Hùng nếm thử các món ăn của các hoàng tử, ngài rất hài lòng với ý nghĩa và hương vị của bánh chưng, bánh giày. Vua cho rằng đây là món ăn thể hiện lòng hiếu thảo và sự tinh tế, vừa dân dã vừa đậm đà bản sắc dân tộc. Vì thế, Lang Liêu được chọn làm người kế vị ngai vàng.\n\nTừ đó, bánh chưng và bánh giày trở thành món ăn truyền thống không thể thiếu trong dịp Tết của người Việt Nam. Câu chuyện này không chỉ nói về nguồn gốc của bánh chưng, bánh giày mà còn dạy chúng ta rằng sự thành công không phụ thuộc vào của cải vật chất mà là ở tấm lòng và sự sáng tạo.",
+      "expression": "happy",
+      "motion": "wave",
+      "audio": "/idle-stories/audio/su_tich_banh_chung.mp3",
+      "volumes": [0.6, 0.8, 0.7],
+      "slice_length": 600
+    }
+  ]
+}
